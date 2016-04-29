@@ -1,0 +1,6 @@
+0,A,Value=10
+1,B,Temp=12
+2,SituationOfInterest
+3,A,Value=10
+4,B,Temp=12
+5,SituationOfInterest

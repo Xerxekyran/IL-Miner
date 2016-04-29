@@ -1,0 +1,13 @@
+0,A
+1,B
+2,B
+3,A
+4,B
+5,C
+6,SituationOfInterest
+7,A
+9,B
+9,A
+10,B
+11,B
+12,SituationOfInterest
