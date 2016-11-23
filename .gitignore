@@ -1,1 +1,20 @@
-/target/
+.settings/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Folder containing the jar file
+target/
+
+# Folder containing train/test data,
+!data/
+
+# Exclude the simple test data
+data/*
+!data/simpleTestData
+
+# Output of runtime
+test.log
